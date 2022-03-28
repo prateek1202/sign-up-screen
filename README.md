@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ## Screenshots:
-https://github.com/prateek120/kalpas=project/blob/main/1648442186075.jpg?raw=true
+https://github.com/prateek120/kalpas-project/main/1648442186075.jpg?raw=true
 
 A few resources to get you started if this is your first Flutter project:
 
