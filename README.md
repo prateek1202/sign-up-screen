@@ -7,7 +7,8 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ## Screenshots:
-![Sign-In screen](https://github.com/prateek1202/kalpas-project/blob/main/screenshots/1648442186075.jpg?raw=true | width=480)
+![Sign-In screen](https://github.com/prateek1202/kalpas-project/blob/main/screenshots/1648442186075.jpg?raw=true)
+<img src="https://github.com/prateek1202/kalpas-project/blob/main/screenshots/1648442186075.jpg" width="48">
 
 A few resources to get you started if this is your first Flutter project:
 
